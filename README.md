@@ -35,7 +35,7 @@ I'm passionate about building web apps, automating tasks, and learning new techn
 ---
 
 ### 📈 GitHub Stats
-https://github.com/SaloniJain923
+[Github](https://github.com/SaloniJain923)
 
 ---
 
@@ -44,6 +44,3 @@ https://github.com/SaloniJain923
 - [LinkedIn](https://www.linkedin.com/in/saloni-jain-436a14211/)
 
 ---
-
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
