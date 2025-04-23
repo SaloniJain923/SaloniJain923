@@ -4,7 +4,7 @@
 
 I'm passionate about building web apps, automating tasks, and learning new technologies. Currently leveling up my skills in full-stack development and working on cool personal projects!
 
-
+---
 ### 🛠️ Tech Stack
 
 **Frontend:**  
@@ -24,15 +24,15 @@ I'm passionate about building web apps, automating tasks, and learning new techn
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-
-## 🚀 What I'm Working On
+---
+### 🚀 What I'm Working On
 
 - Building full-stack applications using Java & React
 - Exploring microservices with Spring Cloud
 - Enhancing my frontend skills with advanced React & Redux
 
-
-- ### 🧠 Interests
+---
+ ### 🧠 Interests
   
 - Building full-stack apps from scratch  
 - Writing clean, testable code  
@@ -40,7 +40,7 @@ I'm passionate about building web apps, automating tasks, and learning new techn
 - Automating stuff (because why not 😄)  
 - Collaborating with awesome devs  
 - Constantly improving as a developer
-
+---
 
 ### 📈 GitHub Stats
 [Github](https://github.com/SaloniJain923)
