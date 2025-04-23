@@ -43,7 +43,7 @@ I'm passionate about building web apps, automating tasks, and learning new techn
 ---
 
 ### 📈 GitHub Stats
-[Github](https://github.com/SaloniJain923)
+- [Github](https://github.com/SaloniJain923)
 
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/saloni-jain-436a14211/)
