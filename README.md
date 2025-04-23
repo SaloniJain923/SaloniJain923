@@ -5,7 +5,8 @@
 I'm passionate about building web apps, automating tasks, and learning new technologies. Currently leveling up my skills in full-stack development and working on cool personal projects!
 
 ---
-
+![Profile views](https://komarev.com/ghpvc/?username=priyadev&color=blueviolet)
+---
 ### 🛠️ Tech Stack
 
 **Frontend:**  
